@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">stringLocalization</string>
+    <string name="sLocalization">select your language of interest</string>
+</resources>
